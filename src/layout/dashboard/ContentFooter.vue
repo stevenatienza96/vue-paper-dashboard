@@ -13,6 +13,7 @@
         <i class="fa fa-heart heart"></i> by
         <a href="https://github.com/cristijora" target="_blank"> &nbsp; Cristi Jora.</a>&nbsp;
         Designed by <a href="https://www.creative-tim.com/?ref=pdf-vuejs" target="_blank">&nbsp; Creative Tim.</a>
+        &nbsp;Modified by <a href= "https://github.com/stevenatienza96/vue-paper-dashboard" target="_blank">&nbsp; Steven Atienza</a>
       </div>
     </div>
   </footer>

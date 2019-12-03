@@ -8,6 +8,8 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@import "~leaflet/dist/leaflet.css";
+@import '/node_modules/leaflet/dist/leaflet.css';
 
 [class^="ti-"], [class*=" ti-"] {
 	font-family: 'themify';

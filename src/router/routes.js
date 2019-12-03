@@ -23,6 +23,11 @@ const routes = [
         component: Dashboard
       },
       {
+        path: "maps",
+        name: "maps",
+        component: Maps
+      },
+      {
         path: "stats",
         name: "stats",
         component: UserProfile
@@ -36,11 +41,6 @@ const routes = [
         path: "icons",
         name: "icons",
         component: Icons
-      },
-      {
-        path: "maps",
-        name: "maps",
-        component: Maps
       },
       {
         path: "typography",

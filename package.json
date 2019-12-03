@@ -11,10 +11,19 @@
     "dev": "npm run serve"
   },
   "dependencies": {
+    "@geoman-io/leaflet-geoman-free": "^2.3.0",
+    "body-parser": "^1.19.0",
     "bootstrap": "^4.0.0",
     "chartist": "^0.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "es6-promise": "^4.2.4",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "knex": "^0.20.3",
     "leaflet": "^1.6.0",
+    "morgan": "^1.9.1",
+    "pg": "^7.14.0",
     "vue": "^2.6.10",
     "vue-clickaway": "^2.1.0",
     "vue-notifyjs": "^0.3.0",
@@ -28,6 +37,7 @@
     "@vue/cli-service": "^3.10.0",
     "@vue/eslint-config-prettier": "^5.0.0",
     "node-sass": "^4.8.3",
+    "nodemon": "^2.0.1",
     "sass-loader": "^6.0.7",
     "vue-template-compiler": "^2.6.10"
   },
